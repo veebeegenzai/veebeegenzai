@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @veebeegenzai
+- 👋 Hi, I’m @veebee
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#, Java, JavaScript, HTML, CSS, SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me veebeegenzai@gmail.com
 
